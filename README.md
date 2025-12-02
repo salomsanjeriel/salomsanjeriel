@@ -26,7 +26,7 @@
 
 <!-- COLORFUL LINE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-_-ff007f?style=for-the-badge" height="6" />
+  <img src="https://img.shields.io/badge/-_-ff007f?style=for-the-badge" height="6" , lenth=10/>
   <img src="https://img.shields.io/badge/-_-00c3ff?style=for-the-badge" height="6" />
   <img src="https://img.shields.io/badge/-_-7fff00?style=for-the-badge" height="6" />
 </p>
