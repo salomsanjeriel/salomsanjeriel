@@ -40,7 +40,7 @@
 - 💡 Interested in **technology, creativity, and building cool projects**
 - 🎯 Currently learning **Java, Web Development, Databases & Git**
 - 🚀 Always exploring new tools and improving my skills
-- 📧 Email: *add your email here*
+- 📧 Email: jsalomsan@gmail.com
 
 ---
 
